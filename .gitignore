@@ -1,13 +1,9 @@
-# Compiled Object files
-*.slo
-*.lo
+*.pro*
 *.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+Makefile*
+*.dll
+release/
+debug/
+moc_*
+object_script*
+ui_*
