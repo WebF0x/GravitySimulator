@@ -1,0 +1,11 @@
+Mettre FSML-1.6 dans le dossier "QtSDK"
+
+Dans  C:\QtSDK\Desktop\Qt\4.8.0\mingw
+
+
+	dans include : ajouter ce dossier C:\QtSDK\SFML-1.6\include\SFML
+
+	dans lib: ajouter les fichiers contenus dans C:\QtSDK\SFML-1.6\lib
+
+Dans le fichier .pro du projet Qt:
+	ajouter la ligne " LIBS += -SFML/lib -lsfml-graphics -lsfml-window -lsfml-system "
