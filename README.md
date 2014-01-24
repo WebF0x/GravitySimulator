@@ -1,4 +1,4 @@
 GravitySimulator
 ================
 
-Graphical simulation of the gravitational interactions between particles in space
+Create particules of different mass and speed and watch them interact with each other.
