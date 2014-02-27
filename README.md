@@ -1,7 +1,7 @@
 GravitySimulator
 ================
 
-Create particuls of different mass and speed and watch them interact with each other.
+Create particles of different mass and speed and watch them interact with each other.
 
 Screenshot:
 -----------
