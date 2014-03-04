@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2013, Maxime Dupuis, Philippe Roy Villeneuve 
+*/
+
 #ifndef PARTICULE_H
 #define PARTICULE_H
 

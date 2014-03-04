@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2013, Maxime Dupuis, Philippe Roy Villeneuve 
+*/
+
 #include <QtGui/QApplication>
 #include "GravitySimulator.h"
 #include <QIcon>

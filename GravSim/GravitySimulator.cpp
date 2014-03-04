@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2013, Maxime Dupuis, Philippe Roy Villeneuve 
+*/
+
 #include "GravitySimulator.h"
 #include "ui_GravitySimulator.h"
 

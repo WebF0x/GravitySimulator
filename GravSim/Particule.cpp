@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2013, Maxime Dupuis, Philippe Roy Villeneuve 
+*/
+
 #include "Particule.h"
 Particule::Particule(const sf::Image &image, const double masse, const sf::Vector2f position,
                      const sf::Vector2f vitesse) :
